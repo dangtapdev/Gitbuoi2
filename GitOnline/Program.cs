@@ -10,3 +10,4 @@ Console.WriteLine("*    *");
 Console.WriteLine("*    *");
 Console.WriteLine(" ****");
 Console.WriteLine("day la hinh tron");
+Console.WriteLine("bo tui may ne");
