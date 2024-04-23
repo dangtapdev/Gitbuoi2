@@ -10,4 +10,5 @@ Console.WriteLine("*    *");
 Console.WriteLine("*    *");
 Console.WriteLine(" ****");
 Console.WriteLine("day la hinh tron");
+Console.WriteLine("chức năng của Đạt Tom");
 Console.WriteLine("bo tui may ne");
