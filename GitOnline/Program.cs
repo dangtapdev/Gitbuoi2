@@ -5,3 +5,7 @@ Console.WriteLine("0000");
 Console.WriteLine("0000");
 Console.WriteLine("0000");
 
+Console.WriteLine(" ****");
+Console.WriteLine("*    *");
+Console.WriteLine("*    *");
+Console.WriteLine(" ****");
