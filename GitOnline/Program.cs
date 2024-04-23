@@ -9,3 +9,4 @@ Console.WriteLine(" ****");
 Console.WriteLine("*    *");
 Console.WriteLine("*    *");
 Console.WriteLine(" ****");
+Console.WriteLine("day la hinh tron");
